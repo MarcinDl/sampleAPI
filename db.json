@@ -1,0 +1,40 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "Name 1",
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1",
+          "postcode": "41-403",
+          "country": "Chełm Śląski"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Name 2",
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "2",
+          "postcode": "00-444",
+          "country": "Warszawa"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Name 3",
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "3",
+          "postcode": "11-111",
+          "country": "Wróblik"
+        }
+      ]
+    }
+  ]
+}
