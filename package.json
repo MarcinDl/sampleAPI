@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+git+https://github.com/MarcinDl/sampleAPI.git"
   },
-  "author": "",
+  "author": "Marcin Dłubis",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/MarcinDl/sampleAPI/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/MarcinDl/sampleAPI#readme",
   "dependencies": {
     "json-server": "^0.16.2"
   }
